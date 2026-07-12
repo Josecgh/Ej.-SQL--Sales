@@ -49,15 +49,15 @@ Hago la normalización de la tabla "sales".
 <img width="493" height="529" alt="image" src="https://github.com/user-attachments/assets/c71d8174-3af9-4f15-a5da-fbdc5bf52bfd" />
 
 ### Paso 4:
-1. Creo la database "Ejercicio3MySQL_Normalized", para subir las tablas normalizadas y me aseguro de seleccionarlas para las siguientes sentencias.
+1. Creo la database "Ejercicio3MySQL_Normalized", para subir las tablas normalizadas y me aseguro de seleccionarlas para las siguientes sentencias con "create_database_normalized.sql".
 <img width="637" height="243" alt="image" src="https://github.com/user-attachments/assets/a08e0b6e-30a0-425b-af79-cf70f6d80745" />
 
-2. Creo las tablas.
+2. Creo las tablas con "create_tables_normalized.sql".
 <img width="637" height="611" alt="image" src="https://github.com/user-attachments/assets/206ab538-3d42-4708-af5d-1bd8bad028bc" />
 
 <img width="359" height="270" alt="image" src="https://github.com/user-attachments/assets/7df64967-2684-4f99-8c99-d5b08b0523f4" />
 
-4. Inserto los datos en las tablas.
+4. Inserto los datos en las tablas con "insert_in_tables_normalized.sql".
 <img width="638" height="606" alt="image" src="https://github.com/user-attachments/assets/6beaa26c-dbf5-431a-ac3d-9a2382bef4e8" />
 
 ### Paso 5:
