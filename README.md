@@ -68,4 +68,7 @@ Hago la normalización de la tabla "sales".
 Por cierto, están ordenados alfabéticamente.
 <img width="414" height="297" alt="image" src="https://github.com/user-attachments/assets/7f333e53-1174-4825-a8da-4555c7d52350" />
 
-3. 
+3. Para obetener el total de las unidades vendidas: Ver mi archivo "scriptSQL3.sql".
+<img width="415" height="221" alt="image" src="https://github.com/user-attachments/assets/e7817622-18c7-47b0-ae8e-5fe0fe0241f4" />
+
+4. 
