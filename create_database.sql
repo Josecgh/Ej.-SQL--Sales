@@ -1,0 +1,1 @@
+CREATE database Ejercicio3MySQL;

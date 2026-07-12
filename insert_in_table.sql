@@ -1,0 +1,1 @@
+SELECT COUNT(city) FROM Ejercicio3MySQL
