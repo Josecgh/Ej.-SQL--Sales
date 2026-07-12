@@ -60,4 +60,12 @@ Hago la normalización de la tabla "sales".
 4. Inserto los datos en las tablas.
 <img width="638" height="606" alt="image" src="https://github.com/user-attachments/assets/6beaa26c-dbf5-431a-ac3d-9a2382bef4e8" />
 
-5. 
+### Paso 5:
+1. Para obtener todos los datos de las tablas food_categories y food_subcategories: Ver mi archivo "scriptSQL1.sql".
+<img width="413" height="535" alt="image" src="https://github.com/user-attachments/assets/59e525f3-c4c8-4a0a-bacf-0c51027999b6" />
+
+2. Para obtener todas los name_subcategory que empiezan por la letra C: Ver mi archivo "scriptSQL2.sql".
+Por cierto, están ordenados alfabéticamente.
+<img width="414" height="297" alt="image" src="https://github.com/user-attachments/assets/7f333e53-1174-4825-a8da-4555c7d52350" />
+
+3. 
