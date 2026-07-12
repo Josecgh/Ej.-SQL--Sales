@@ -34,3 +34,14 @@ Creo la database "Ejercicio3MySQL":
 
 <img width="637" height="274" alt="image" src="https://github.com/user-attachments/assets/935cc681-07f0-47c5-9e9a-722f412cc7b9" />
 
+### Paso 2:
+1. Primero selecciono la base de datos "Ejercicio3MySQL".
+
+<img width="635" height="265" alt="image" src="https://github.com/user-attachments/assets/9d39191c-ad90-4fac-b6e7-b2ca09325a58" />
+
+1. Creo la tabla "sales" usando el archivo sql adjuntado "sales_create_table_and_insert_data_script.sql".
+
+<img width="636" height="398" alt="image" src="https://github.com/user-attachments/assets/3c720368-7c9a-44e4-b6c3-2d33e2447b3e" />
+
+1. Inserto los datos en la tabla "sales" usando el archivo sql adjuntado "sales_create_table_and_insert_data_script.sql".
+
