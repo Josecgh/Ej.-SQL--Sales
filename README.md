@@ -71,4 +71,7 @@ Por cierto, están ordenados alfabéticamente.
 3. Para obetener el total de las unidades vendidas: Ver mi archivo "scriptSQL3.sql".
 <img width="415" height="221" alt="image" src="https://github.com/user-attachments/assets/e7817622-18c7-47b0-ae8e-5fe0fe0241f4" />
 
-4. 
+4. Para obtener el total de las unidades vendidas en America: Ver mi archivo "scriptSQL4.sql".
+Por cierto, con "%America%" se establece que se refiere tanto a North America como a South America ya que es un filtro todo lo que tenga la palabra America.
+<img width="417" height="220" alt="image" src="https://github.com/user-attachments/assets/6d1ae969-0e23-42bb-93f8-f84a415cb91a" />
+
