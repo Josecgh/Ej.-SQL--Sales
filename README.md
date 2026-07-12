@@ -34,3 +34,5 @@ Script SQL 4 (25p)
 
 ![Separador Animado](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
 
+### Paso 1:
+
