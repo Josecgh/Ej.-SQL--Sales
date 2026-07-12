@@ -38,8 +38,19 @@ Creo la database "Ejercicio3MySQL":
 1. Primero selecciono la base de datos "Ejercicio3MySQL".
 <img width="635" height="265" alt="image" src="https://github.com/user-attachments/assets/9d39191c-ad90-4fac-b6e7-b2ca09325a58" />
 
-1. Creo la tabla "sales" usando el archivo sql adjuntado "sales_create_table_and_insert_data_script.sql".
+2. Creo la tabla "sales" usando el archivo sql adjuntado "sales_create_table_and_insert_data_script.sql".
 <img width="636" height="398" alt="image" src="https://github.com/user-attachments/assets/3c720368-7c9a-44e4-b6c3-2d33e2447b3e" />
 
-1. Inserto los datos en la tabla "sales" usando el archivo sql adjuntado "sales_create_table_and_insert_data_script.sql".
+3. Inserto los datos en la tabla "sales" usando el archivo sql adjuntado "sales_create_table_and_insert_data_script.sql".
+<img width="1277" height="695" alt="image" src="https://github.com/user-attachments/assets/3aec215a-6502-4ed5-8cfe-be1f1efa2ca2" />
 
+### Paso 3:
+Hago la normalización de la tabla "sales".
+<img width="493" height="529" alt="image" src="https://github.com/user-attachments/assets/c71d8174-3af9-4f15-a5da-fbdc5bf52bfd" />
+
+### Paso 4:
+1. Creo la database "Ejercicio3MySQL_Normalized", para subir las tablas normalizadas.
+<img width="637" height="243" alt="image" src="https://github.com/user-attachments/assets/a08e0b6e-30a0-425b-af79-cf70f6d80745" />
+
+
+2. Creo las
