@@ -1,15 +1,15 @@
 # Ejercio 3. SQL - Sales
 
 ## Instrucciones:
-Crea una base de datos MySQL en Docker
-Crea la tabla "sales" (ver script proporcionado)
-Crear un script para obtener todos los datos de la columna food category y subcategory
-Crear un script para obtener solo las sub categorías que empiezan por la letra "C"
-Crear un script para obtener la cantidad total de unidades vendidas
-Crear un script para obtener la unidades totales del continente americano
-Crea un repositorio con el Readme
-Aloja los scripts en tu repositorio
-Inserta en el Readme la descripción del ejercicio
+1. Crea una base de datos MySQL en Docker
+1.  Crea la tabla "sales" (ver script proporcionado)
+1. Crear un script para obtener todos los datos de la columna food category y subcategory
+1. Crear un script para obtener solo las sub categorías que empiezan por la letra "C"
+1. Crear un script para obtener la cantidad total de unidades vendidas
+1. Crear un script para obtener la unidades totales del continente americano
+1. Crea un repositorio con el Readme
+1. Aloja los scripts en tu repositorio
+1. Inserta en el Readme la descripción del ejercicio
 
 ## Requisito:
 Script SQL
