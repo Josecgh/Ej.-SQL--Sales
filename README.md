@@ -1,7 +1,6 @@
 # Ejercio 3. SQL - Sales
 
 ## Instrucciones:
-
 Crea una base de datos MySQL en Docker
 Crea la tabla "sales" (ver script proporcionado)
 Crear un script para obtener todos los datos de la columna food category y subcategory
@@ -13,15 +12,12 @@ Aloja los scripts en tu repositorio
 Inserta en el Readme la descripción del ejercicio
 
 ## Requisito:
-
 Script SQL
 
 ## Entregables:
-
 Enlace del repositorio con el Readme
 
 ## Recursos:
-
 [W3School](https://www.w3schools.com/sql/default.asp)
 
 ## Criterios de evaluación:
